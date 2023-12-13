@@ -26,18 +26,20 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
 
 - **Back-End Development:**
+- 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
 
 - **Database:**
+- 
   [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 - **Version Control:**
+- 
   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 - **Tools:**
-
-  [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+  - npm
 
 - **Other:**
   - Test-Driven Development (TDD) <i class="fas fa-vial"></i>
@@ -83,3 +85,6 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 Feel free to reach out to me via email at [your.email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm always open to new opportunities and collaborations.
 
 Thank you for visiting my portfolio!
+
+
+
