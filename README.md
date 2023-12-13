@@ -46,19 +46,11 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 ## Projects
 
-### Project 1: [Project Name 1](link-to-project-1)
+### Project 1: [AID-LINGUA-AI-NEWS
+](https://github.com/alihinnawe/AID-LINGUA-AI-NEWS)
 
-- Description: Brief description of the project, including its purpose and the technologies used.
-- Technologies: List of technologies used in the project.
-- Demo: Link to a live demo (if applicable).
-- GitHub Repository: Link to the GitHub repository.
-
-### Project 2: [Project Name 2](link-to-project-2)
-
-- Description: Brief description of the project, including its purpose and the technologies used.
-- Technologies: List of technologies used in the project.
-- Demo: Link to a live demo (if applicable).
-- GitHub Repository: Link to the GitHub repository.
+- Description: A noteworthy achievement during this period was successfully leading the development of a responsive and user-friendly web application using React for the AID-LINGUA-AI-NEWS newsletter, catering to individuals with
+accessibility needs.
 
 
 ## Education
