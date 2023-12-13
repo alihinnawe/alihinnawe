@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to my Full Stack Web Developer portfolio! I'm [Your Name], a passionate and experienced developer with expertise in both front-end and back-end technologies. This portfolio showcases my skills, projects, and achievements in the world of web development.
+Welcome to my aspiring Full Stack Web Developer portfolio! I'm Ali Hinnawe, an enthusiastic and dedicated beginner venturing into the world of web development. My journey is fueled by a passion for creating impactful web applications and a genuine curiosity to explore both front-end and back-end technologies.
+
 
 ## Table of Contents
 
@@ -84,7 +85,3 @@ I am a dedicated and creative full-stack web developer with a strong foundation 
 Feel free to reach out to me via email at [your.email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm always open to new opportunities and collaborations.
 
 Thank you for visiting my portfolio!
-
----
-
-*Note: Make sure to include the FontAwesome library in your HTML file for the icons to render correctly. You can include it by adding the following link in the `<head>` of your HTML file: `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-c8Q8zqZSN6P3SS1Bp2ERPyG/Jb7KwBPmg5f1BqPi0cR21JKhXCGSmKKEQ0R2fMOy" crossorigin="anonymous" />`.*
