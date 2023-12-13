@@ -16,7 +16,10 @@ Welcome to my aspiring Full Stack Web Developer portfolio! I'm Ali Hinnawe, an e
 
 ## About Me
 
-I am a dedicated and creative full-stack web developer with a strong foundation in both front-end and back-end technologies. My goal is to create seamless and user-friendly web applications that meet the needs of clients and users. I thrive in collaborative environments and enjoy solving complex problems through innovative solutions.
+Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate about building innovative web applications, and I thrive in collaborative environments where I can contribute to creative problem-solving.
+
+
+
 
 ## Skills
 
