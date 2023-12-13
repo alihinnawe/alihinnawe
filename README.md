@@ -1,4 +1,4 @@
-# Full Stack Web Developer Portfolio
+# 🍕 Hey, I'm Ali – coding fueled by pizza and questionable puns. 🍕😄
 
 ## Introduction
 
