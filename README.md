@@ -60,29 +60,27 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 - Demo: Link to a live demo (if applicable).
 - GitHub Repository: Link to the GitHub repository.
 
-### ...
 
 ## Education
 
-**Bachelor of Science in Computer Science**
-[University Name], [City, State]
-*Graduation Date: Month Year*
+**Master of Science / Cognitive Systems: Language, Learning and Reasoning**
+Universität Potsdam,
+*Graduation Date:  January 2022*
 
 ## Work Experience
 
-**Full Stack Developer | [Company Name], [Location]**
-*Start Date - End Date*
+**System Administrator | Esiters, Lebanon**
+*2010 - 2015*
 
-- Description of responsibilities and achievements.
+- Creation and processing of master data.
+- Maintenance of system quality assurance
+- Troubleshooting of system problems.
+- Creating workflow diagrams for negotiated statements of requirements.
 
-**Intern, Web Developer | [Company Name], [Location]**
-*Start Date - End Date*
-
-- Description of responsibilities and achievements.
 
 ## Contact
 
-Feel free to reach out to me via email at [your.email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm always open to new opportunities and collaborations.
+Feel free to reach out to me via email at ali.hinnawe@gmx.de. I'm always open to new opportunities and collaborations.
 
 Thank you for visiting my portfolio!
 
