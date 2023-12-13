@@ -24,7 +24,8 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 ## Skills
 
 - **Front-End Development:**
-  - HTML5 <i class="fab fa-html5"></i>, CSS3 <i class="fab fa-css3-alt"></i>, JavaScript <i class="fab fa-js"></i>
+- 
+  - HTML(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev), CSS3 <i class="fab fa-css3-alt"></i>, JavaScript <i class="fab fa-js"></i>
   - React.js <i class="fab fa-react"></i>, Next.js <i class="fab fa-react"></i>
 
 - **Back-End Development:**
