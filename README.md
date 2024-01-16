@@ -23,7 +23,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Front-End Development:**
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 - **Back-End Development:**
   
@@ -71,7 +71,7 @@ Universität Potsdam,
 
 ## Contact
 
-Feel free to reach out to me via email at ali.hinnawe@gmx.de. I'm always open to new opportunities and collaborations.
+Feel free to reach out to me via email at alihinnawe.jobs@gmail.com. I'm always open to new opportunities and collaborations.
 
 Thank you for visiting my portfolio!
 
