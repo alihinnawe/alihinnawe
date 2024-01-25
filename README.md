@@ -46,11 +46,29 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 ## Projects
 
-### Project 1: [AID-LINGUA-AI-NEWS](https://github.com/alihinnawe/AID-LINGUA-AI-NEWS)
+### Project 1: [portfolio-react](https://github.com/alihinnawe/portfolio-react)
+
+- Description: Building my portfolio with React.
+- Technologies Used:  Technologies Used:  HTML, CSS, React.
+
+### Project 2: [AID-LINGUA-AI-NEWS](https://github.com/alihinnawe/AID-LINGUA-AI-NEWS)
 
 - Description: A noteworthy achievement during this period was successfully leading the development of a responsive and user-friendly web application using React for the AID-LINGUA-AI-NEWS newsletter, catering to individuals with
 accessibility needs.
+- Technologies Used:  React, Mongo DB, Node Js.
 
+### Project 3:[Tourio App](https://github.com/alex-code42/ali_alex_tourio_app)
+
+- Description: The best friend of all travelers: it displays sights you want to visit and lets you edit them.
+- Technologies Used:  HTML, CSS, JavaScript.
+  
+### Project 4:[Weather & Activities App](https://github.com/alex-code42/ali_alex_tourio_app)
+- Description: An app that fetches a weather object from an API and conditionally picks activities from a list to display as suggestions.
+- Technologies Used: HTML, CSS, JavaScript.
+  
+### Project 5: [Rick and Morty App](https://github.com/alihinnawe/Ali-Rouzbehan-Proj3)
+- Description: Create a single-page app for browsing all the characters of the famous TV show Rick and Morty.
+- Technologies Used:  HTML, CSS, JavaScript, React.
 
 ## Education
 
