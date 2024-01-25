@@ -62,7 +62,7 @@ accessibility needs.
 - Description: The best friend of all travelers: it displays sights you want to visit and lets you edit them.
 - Technologies Used:  HTML, CSS, JavaScript.
   
-### Project 4:[Weather & Activities App](https://github.com/alex-code42/ali_alex_tourio_app)
+### Project 4:[Weather & Activities App](https://github.com/alihinnawe/Ali-Serge-Weather)
 - Description: An app that fetches a weather object from an API and conditionally picks activities from a list to display as suggestions.
 - Technologies Used: HTML, CSS, JavaScript.
   
