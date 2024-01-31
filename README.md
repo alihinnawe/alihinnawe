@@ -89,7 +89,7 @@ Universität Potsdam,
 ## Learning Process
 
 ### MongoDB: [MongoDB fundamentals](https://www.amazon.com/MongoDB-Jobseekers-heights-career-English/dp/9355518250)
-
+  - Learning Date: 31-01-2024
 - Description: I learned MongoDB fundamentals through the book "MongoDB Job Seekers".
 - Details:  CRUD (Create, Read, Update, and Delete Documents), Querying MongoDB, Objects and Arrays, Querying Arrays, Querying Embedded Documents, Array Update Operators, The MongoDB 
 Aggregation Framework, Planning for Performance – Collections and Indexes.
