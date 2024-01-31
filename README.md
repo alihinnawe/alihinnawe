@@ -92,13 +92,10 @@ Universität Potsdam,
   - Learning Date: 31-01-2024
 - Description: I learned MongoDB fundamentals through the book "MongoDB Job Seekers".
 - What I learned:
-  -- Gain a comprehensive understanding of MongoDB's architecture and data model.
-
-  -- Learn to perform CRUD operations (Create, Read, Update, Delete) in MongoDB.
-
-  -- Understand indexing strategies for optimizing query performance.
-
-  -- Discover MongoDB's aggregation framework for complex data analysis.
+  1. Gain a comprehensive understanding of MongoDB's architecture and data model.
+  2. Learn to perform CRUD operations (Create, Read, Update, Delete) in MongoDB.
+  3. Understand indexing strategies for optimizing query performance.
+  4. Discover MongoDB's aggregation framework for complex data analysis.
 
 ## Contact
 
