@@ -70,22 +70,6 @@ accessibility needs.
 - Description: Create a single-page app for browsing all the characters of the famous TV show Rick and Morty.
 - Technologies Used:  HTML, CSS, JavaScript, React.
 
-## Education
-
-**Master of Science / Cognitive Systems: Language, Learning and Reasoning**
-Universität Potsdam,
-*Graduation Date:  January 2022*
-
-## Work Experience
-
-**System Administrator | Esiters, Lebanon**
-*2010 - 2015*
-
-- Creation and processing of master data.
-- Maintenance of system quality assurance
-- Troubleshooting of system problems.
-- Creating workflow diagrams for negotiated statements of requirements.
-
 ## Learning Process
 
 ### MongoDB: [MongoDB fundamentals](https://www.amazon.com/MongoDB-Jobseekers-heights-career-English/dp/9355518250)
@@ -103,6 +87,22 @@ Universität Potsdam,
  2. Installing Node.js and setting up the environment for server-side JavaScript.
  3. Installing and setting up the NPM MongoDB library.
  4. Connecting and working with MongoDB server using Node.js
+    
+## Education
+
+**Master of Science / Cognitive Systems: Language, Learning and Reasoning**
+Universität Potsdam,
+*Graduation Date:  January 2022*
+
+## Work Experience
+
+**System Administrator | Esiters, Lebanon**
+*2010 - 2015*
+
+- Creation and processing of master data.
+- Maintenance of system quality assurance
+- Troubleshooting of system problems.
+- Creating workflow diagrams for negotiated statements of requirements.
     
 ## Contact
 
