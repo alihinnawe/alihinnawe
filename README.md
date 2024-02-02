@@ -73,7 +73,7 @@ accessibility needs.
 ## Learning Process
 
 ### MongoDB: [MongoDB fundamentals](https://www.amazon.com/MongoDB-Jobseekers-heights-career-English/dp/9355518250)
-  - Learning Date: 20-1-2024 to 31-01-2024
+  20-1-2024 to 31-01-2024
 - What I learned:
   1. Gain a comprehensive understanding of MongoDB's architecture and data model.
   2. Learn to perform CRUD operations (Create, Read, Update, Delete) in MongoDB.
@@ -81,7 +81,7 @@ accessibility needs.
   4. Discover MongoDB's aggregation framework for complex data analysis.
 
 ### MongoDB: [Full Stack Development withMongoDB](https://bpbonline.com/products/full-stack-development-with-mongodb?_pos=1&_sid=a53a2c992&_ss=r)
-  - Learning Date: 01-02-2024 to 02-02-2024
+  01-02-2024 to 02-02-2024
 - What I learned:
  1. Using JavaScript (Node.js) with MongoDB.
  2. Installing Node.js and setting up the environment for server-side JavaScript.
