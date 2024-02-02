@@ -94,6 +94,14 @@ accessibility needs.
 Universität Potsdam,
 *Graduation Date:  January 2022*
 
+## Certificates 
+
+**SPICED ACADEMY / FULL-Stack Web Developer**
+
+June 2023 - Sept 2023
+- 12-week intensive Full Stack Web
+Development Bootcamp at Spiced Academy.
+
 ## Work Experience
 
 **System Administrator | Esiters, Lebanon**
