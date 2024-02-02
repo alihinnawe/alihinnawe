@@ -96,7 +96,7 @@ Universität Potsdam,
   3. Understand indexing strategies for optimizing query performance.
   4. Discover MongoDB's aggregation framework for complex data analysis.
 
-### MongoDB: [Full Stack Development withMongoDB]([https://www.amazon.com/MongoDB-Jobseekers-heights-career-English/dp/9355518250](https://bpbonline.com/products/full-stack-development-with-mongodb?_pos=1&_sid=a53a2c992&_ss=r))
+### MongoDB: [Full Stack Development withMongoDB](https://bpbonline.com/products/full-stack-development-with-mongodb?_pos=1&_sid=a53a2c992&_ss=r)
   - Learning Date: 01-02-2024 to 02-02-2024
 - What I learned:
  1. Using JavaScript (Node.js) with MongoDB.
