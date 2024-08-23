@@ -33,6 +33,9 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 - **Database:**
   
   [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  
 
 - **Version Control:**
   
@@ -95,6 +98,11 @@ Universität Potsdam,
 *Graduation Date:  January 2022*
 
 ## Certificates 
+
+**FiGD Akademie / FULL-Stack Web Developer**
+
+17 June  -  23 August 2024
+- 12-week intensive Programmierung und Design fürs Web
 
 **SPICED ACADEMY / FULL-Stack Web Developer**
 
