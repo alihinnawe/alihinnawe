@@ -28,7 +28,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 - **Back-End Development:**
   
   [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=php,java,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,java,py)](https://skillicons.dev)
 
 
 - **Database:**
