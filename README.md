@@ -40,13 +40,14 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
   
   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-- **Tools:**
-  - npm
 
 - **Other:**
     [![My Skills](https://skillicons.dev/icons?i=latex,linux)](https://skillicons.dev)
 
-- **Other:**
+- **Tools:**
+  - npm
+
+- **Other**
   - Test-Driven Development (TDD) <i class="fas fa-vial"></i>
   -  Asynchronous JavaScript and XML (AJAX) <i class="fas fa-vial"></i>
   
