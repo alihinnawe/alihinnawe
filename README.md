@@ -42,7 +42,8 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 
 - **Tools:**
-  - npm
+
+  [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 - **Other**
 
