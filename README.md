@@ -105,25 +105,24 @@ Universität Potsdam,
 
 ## Certificates 
 
-
 **FiGD Akademie / FULL-Stack Web Developer**
 
 25 November 2024  - current
-- 12-week intensive Mobile Web App Development
+- 12-week intensive OOP JAVA.
 
 17 June  -  23 August 2024
-- 12-week intensive Programmierung und Design fürs Web
+- 12-week intensive Programmierung und Design fürs Web.
 - 
 26 August 2024  -  22 November 2024
-- 12-week intensive Mobile Web App Development
+- 12-week intensive Mobile Web App Development.
 
 17 June  -  23 August 2024
-- 12-week intensive Programmierung und Design fürs Web
+- 12-week intensive Programmierung und Design fürs Web.
 
 **SPICED ACADEMY / FULL-Stack Web Developer**
 
 June 2023 - Sept 2023
-- 12-week intensive Full Stack Web
+- 12-week intensive Full Stack Web.
 Development Bootcamp at Spiced Academy.
 
 ## Work Experience
@@ -132,13 +131,13 @@ Development Bootcamp at Spiced Academy.
 *2010 - 2015*
 
 - Creation and processing of master data.
-- Maintenance of system quality assurance
+- Maintenance of system quality assurance.
 - Troubleshooting of system problems.
 - Creating workflow diagrams for negotiated statements of requirements.
     
 ## Contact
 
-Feel free to reach out to me via email at alihinnawe.jobs@gmail.com. I'm always open to new opportunities and collaborations.
+Feel free to reach out to me via email at ali.hinnawe@gmx.de I'm always open to new opportunities and collaborations.
 
 Thank you for visiting my portfolio!
 
