@@ -108,6 +108,12 @@ Universität Potsdam,
 
 **FiGD Akademie / FULL-Stack Web Developer**
 
+25 November 2024  - current
+- 12-week intensive Mobile Web App Development
+
+17 June  -  23 August 2024
+- 12-week intensive Programmierung und Design fürs Web
+- 
 26 August 2024  -  22 November 2024
 - 12-week intensive Mobile Web App Development
 
