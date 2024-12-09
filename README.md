@@ -43,7 +43,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Tools:**
 
-  [![My Skills](https://skillicons.dev/icons?i=npm,vscode,vercel,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=npm,vscode,vercel,postman,pycharm)](https://skillicons.dev)
 
 - **Other**
 
