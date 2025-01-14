@@ -47,7 +47,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Other**
 
-  [![My Skills](https://skillicons.dev/icons?i=latex,linux,ubuntu,ln)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=latex,linux,ubuntu,ln,linkedin,codepen)](https://skillicons.dev)
 
   - Test-Driven Development (TDD) <i class="fas fa-vial"></i>
   -  Asynchronous JavaScript and XML (AJAX) <i class="fas fa-vial"></i>
