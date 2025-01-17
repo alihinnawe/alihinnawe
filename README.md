@@ -32,7 +32,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Deep Learning & Machine Learning**
 
-- [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,r&perline=4&theme=light)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,r&theme=light)](https://skillicons.dev)
   
 - **Database:**
   
@@ -41,16 +41,16 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Version Control:**
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 
 
 - **Tools:**
 
-  [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,vscode,vercel,postman,pycharm,idea&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,vscode,vercel,postman,pycharm,idea&theme=light)](https://skillicons.dev)
 
 - **Other**
 
-  [![My Skills](https://skillicons.dev/icons?i=latex,linux,ubuntu,linkedin,codepen,notion&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=latex,linux,ubuntu,linkedin,codepen,notion&theme=light)](https://skillicons.dev)
 
   - Test-Driven Development (TDD) <i class="fas fa-vial"></i>
   -  Asynchronous JavaScript and XML (AJAX) <i class="fas fa-vial"></i>
