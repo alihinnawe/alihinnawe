@@ -36,7 +36,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
   
 - **Database:**
   
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb&perline=4&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb&theme=light)](https://skillicons.dev)
     
 
 - **Version Control:**
