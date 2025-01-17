@@ -32,7 +32,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Deep Learning & Machine Learning**
 
-- [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,r&perline=4)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,r&perline=4&theme=light)](https://skillicons.dev)
   
 - **Database:**
   
