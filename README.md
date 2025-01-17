@@ -23,8 +23,8 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Front-End Development:**
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=light&perline=2)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=light&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular&theme=light&perline=4)](https://skillicons.dev)
 
 - **Back-End Development:**
   
