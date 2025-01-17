@@ -23,34 +23,34 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 - **Front-End Development:**
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular&perline=4)](https://skillicons.dev)
 
 - **Back-End Development:**
   
-  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=php,java,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,java,py&perline=4)](https://skillicons.dev)
 
 - **Deep Learning & Machine Learning**
 
-- [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,r)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,r&perline=4)](https://skillicons.dev)
   
 - **Database:**
   
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb&perline=4)](https://skillicons.dev)
     
 
 - **Version Control:**
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
 
 
 - **Tools:**
 
-  [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,vscode,vercel,postman,pycharm,idea)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,vscode,vercel,postman,pycharm,idea&perline=4)](https://skillicons.dev)
 
 - **Other**
 
-  [![My Skills](https://skillicons.dev/icons?i=latex,linux,ubuntu,linkedin,codepen,notion)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=latex,linux,ubuntu,linkedin,codepen,notion&perline=4)](https://skillicons.dev)
 
   - Test-Driven Development (TDD) <i class="fas fa-vial"></i>
   -  Asynchronous JavaScript and XML (AJAX) <i class="fas fa-vial"></i>
