@@ -1,5 +1,4 @@
-# 🍕 Hey, I'm Ali – coding fueled by pizza and questionable puns. 🍕😄
-
+# I code because I enjoy creating things that make life simpler, quicker, and more enjoyable. And just like pizza, I think good code should be shared with everyone.
 ## Introduction
 
 Welcome to my aspiring Full Stack Web Developer portfolio! I'm Ali Hinnawe, an enthusiastic and dedicated  Full Stack Developer venturing into the world of web development. My journey is fueled by a passion for creating impactful web applications and a genuine curiosity to explore both front-end and back-end technologies.
