@@ -53,7 +53,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
   - Test-Driven Development (TDD) <i class="fas fa-vial"></i>
   -  Asynchronous JavaScript and XML (AJAX) <i class="fas fa-vial"></i>
   
-## Projects
+## Selected Projects
 
 ### Project 1: [portfolio-react](https://github.com/alihinnawe/portfolio-react)
 
