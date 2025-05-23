@@ -57,7 +57,7 @@ Hello, I'm Ali Hinnawe, an aspiring full-stack web developer. I'm passionate abo
 
 ### Project 1: [portfolio-react](https://github.com/alihinnawe/portfolio-react)
 
-- Description: Building my portfolio with ´´´React```.
+- Description: Building my portfolio with ```React```.
 - Technologies Used:  Technologies Used:  HTML, CSS, React.
 
 ### Project 2: [AID-LINGUA-AI-NEWS](https://github.com/alihinnawe/AID-LINGUA-AI-NEWS)
