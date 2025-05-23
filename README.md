@@ -140,7 +140,7 @@ Development Bootcamp at Spiced Academy.
     
 ## Contact
 
-Feel free to reach out to me via email at ali.hinnawe@gmx.de I'm always open to new opportunities and collaborations.
+Feel free to reach out to me via [email](mailto:ali.hinnawe@gmx.de) I'm always open to new opportunities and collaborations.
 
 Thank you for visiting my portfolio!
 
