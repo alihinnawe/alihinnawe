@@ -107,7 +107,7 @@ Universität Potsdam,
 
 **FiGD Akademie / FULL-Stack Web Developer**
 
-10 March 2025  - present
+10 March 2025  - 07 June 2025
 - 12-week intensive CMS Development (OOP PHP, Word press & Mysql).
 
 25 November 2024  - 07 March 2025
